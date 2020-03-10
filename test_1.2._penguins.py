@@ -1,0 +1,6 @@
+count_penguins = int(input())
+print('   _~_    ' * count_penguins)
+print('  (o o)   ' * count_penguins)
+print(' /  V  \\  ' * count_penguins)
+print('/(  _  )\\ ' * count_penguins)
+print('  ^^ ^^   ' * count_penguins)
